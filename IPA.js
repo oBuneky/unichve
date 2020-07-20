@@ -1,5 +1,3 @@
-
-
 //*************************************************************************************************//
 //******Code to get array of characters and links from http://en.wikipedia.org/wiki/Help:IPA******//
 // chars = [];
